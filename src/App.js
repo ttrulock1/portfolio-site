@@ -21,12 +21,10 @@ function App (){
 
     
     <Routes>
-      <Route path='/' exact element={<About resumeData={resumeData}/>}/>
       <Route path='resume' element={<Resume resumeData={resumeData} />}/>
       <Route path='contact' element={<ContactUs resumeData={resumeData}/>}/>
-      <Route path='portfolio' element={<Portfolio resumeData={resumeData}/>}/> 
-      <Route path='*' element={<h2>This page does not exist</h2>}/>
-
+      <Route path='portfolio' element={<Portfolio resumeData={resumeData}/>}/>
+      <Route path='*' element={<About resumeData={resumeData}/>}/>
     </Routes>
     <Footer  resumeData={resumeData}/>
     </div>
