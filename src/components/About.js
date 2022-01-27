@@ -1,4 +1,5 @@
 import React from 'react';
+import profilepic from '../images/profilepic.jpg'
 const About = props => {
 
     let resumeData = props.resumeData;
@@ -8,7 +9,7 @@ const About = props => {
 
             <div className="three columns">
 
-               <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
+               <img className="profile-pic"  src={profilepic} alt="" />
 
             </div>
 

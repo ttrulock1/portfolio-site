@@ -53,7 +53,7 @@ const Portfolio = props => {
                             <p>GitHub repository: <a href="https://ttrulock1.github.io/homework-five" target="_blank">https://ttrulock1.github.io/homework-five</a></p>
                         </div>
                         <div class="tab-pane fade" id="list-pw" role="tabpanel" aria-labelledby="list-pw-list">
-                            <img id="img" src=weatherpic className="item-img" alt="Contact UI Screenshot" width="100%" />
+                            <img id="img" src={weatherpic} className="item-img" alt="Contact UI Screenshot" width="100%" />
                             <p><b>Weather Dashboard</b></p>
                             <p>Deployed at: <a href="https://ttrulock1.github.io/homework-six/" target="_blank">Weather Dashboard</a></p>
                             <p>GitHub repository: <a href="https://ttrulock1.github.io/homework-six" target="_blank">https://ttrulock1.github.io/homework-six</a></p>
