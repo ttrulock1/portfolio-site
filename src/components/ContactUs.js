@@ -1,6 +1,11 @@
 import React from 'react';
 const ContactUs = props => {
     let resumeData = props.resumeData;
+    const checkEmpty=(evt) => {
+      if(evt.target.value === ""){
+        alert(`${evt.target.getAttribute("placeholder")} is required`)
+      }
+    }
     return (
       <section id="contact">
           <div className="row section-head">
@@ -11,15 +16,15 @@ const ContactUs = props => {
                    <form>
                         <div class="form-group">
                             <label for="exampleInputName">Name</label>
-                            <input type="text" class="form-control" id="exampleInputName" placeholder="Name" />
+                            <input type="text" class="form-control" id="exampleInputName" placeholder="Name" onBlur={checkEmpty}/> 
                         </div>
                         <div class="form-group">
                             <label for="exampleInputEmail">Email</label>
-                            <input type="email" class="form-control" id="exampleInputEmail" placeholder="Email" />
+                            <input type="email" class="form-control" id="exampleInputEmail" placeholder="Email" onBlur={checkEmpty}/>
                         </div>
                         <div class="form-group">
                             <label for="exampleInputMsg">Message</label>
-                            <input type="text" class="form-control" id="exampleInputMsg" placeholder="Message" />
+                            <input type="text" class="form-control" id="exampleInputMsg" placeholder="Message" onBlur={checkEmpty}/>
                         </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
