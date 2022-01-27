@@ -4,11 +4,11 @@ img{
 .app {
   background-color: #282c34;
   min-height: 100vh;
-  color: white;
+  color: black;
 }
 
 a{
-  color: white;
+  color: black;
   text-decoration: none;
   border-radius: .25rem;
   padding: .25rem .5rem;

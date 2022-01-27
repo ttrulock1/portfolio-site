@@ -37,20 +37,20 @@ const Portfolio = props => {
                             <img id="img" src= {passwordscreenshot} className="item-img" alt="GIF of README app use" width="100%" />
                             <p><b>Password Generator</b></p>
                             <p>Deployed at: <a href="https://ttrulock1.github.io/homework-three/" target="_blank"> https://ttrulock1.github.io/homework-three/</a> </p>
-                            <p>GitHub repository: <a href="https://ttrulock1.github.io/homework-three" target="_blank">https://ttrulock1.github.io/homework-three</a></p>
+                            <p>GitHub repository: <a href="https://github.com/ttrulock1/homework-three/" target="_blank">https://ttrulock1.github.io/homework-three</a></p>
                         </div>
                         </div>
                         <div class="tab-pane fade" id="list-portfolio" role="tabpanel" aria-labelledby="list-portfolio-list">
                             <img id="img" src={codingquiz} className="item-img" alt="Contact UI Screenshot" width="100%" />
                             <p><b>Coding Quiz Site</b></p>
                             <p>Deployed at: <a href="https://ttrulock1.github.io/homework-four/" target="_blank">https://ttrulock1.github.io/homework-four/</a></p>
-                            <p>GitHub repository: <a href="https://ttrulock1.github.io/homework-four" target="_blank">https://ttrulock1.github.io/homework-four</a></p>
+                            <p>GitHub repository: <a href="https://github.com/ttrulock1/homework-four/" target="_blank">https://ttrulock1.github.io/homework-four</a></p>
                         </div>
                         <div class="tab-pane fade" id="list-Plan" role="tabpanel" aria-labelledby="list-Plan-list">
                             <img id="img" src={sampleimage} className="item-img" alt="Cardio Screenshot" width="100%" />
                             <p><b>Daily Schedule Planner</b></p>
                             <p>Deployed at: <a href="https://ttrulock1.github.io/homework-five/" target="_blank">https://ttrulock1.github.io/homework-five/</a></p>
-                            <p>GitHub repository: <a href="https://ttrulock1.github.io/homework-five" target="_blank">https://ttrulock1.github.io/homework-five</a></p>
+                            <p>GitHub repository: <a href="https://github.com/ttrulock1/homework-five/" target="_blank">https://ttrulock1.github.io/homework-five</a></p>
                         </div>
                         <div class="tab-pane fade" id="list-pw" role="tabpanel" aria-labelledby="list-pw-list">
                             <img id="img" src={weatherpic} className="item-img" alt="Contact UI Screenshot" width="100%" />
@@ -62,19 +62,19 @@ const Portfolio = props => {
                             <img id="img" src={camping} className="item-img" alt="Camping1" width="100%" />
                             <p><b>Camping Project 1</b></p>
                             <p>Deployed at: <a href="https://vincentmomot.github.io/Camping-in-the-SouthEast/" target="_blank">Camping</a></p>
-                            <p>GitHub repository: <a href="https://vincentmomot.github.io/Camping-in-the-SouthEast" target="_blank">https://vincentmomot.github.io/Camping-in-the-SouthEast/</a></p>
+                            <p>GitHub repository: <a href="https://github.com/VincentMomot/Camping-in-the-SouthEast" target="_blank">https://vincentmomot.github.io/Camping-in-the-SouthEast/</a></p>
                         </div>
                         <div class="tab-pane fade" id="list-run" role="tabpanel" aria-labelledby="list-run-list">
                             <img id="img" src={galleryimage} className="item-img" alt="Gallery Screenshot" width="100%" />
                             <p><b>Gallery Project 2</b></p>
                             <p>Deployed at: <a href="https://gallerybootcampproject.herokuapp.com/"> https://gallerybootcampproject.herokuapp.com/</a> </p>
-                            <p>GitHub repository: <a href="https://gallerybootcampproject.herokuapp.com" target="_blank">https://gallerybootcampproject.herokuapp.com</a></p>
+                            <p>GitHub repository: <a href="https://github.com/ttrulock1/BootcampProject2" target="_blank">https://gallerybootcampproject.herokuapp.com</a></p>
                         </div>
                         <div class="tab-pane fade" id="list-project3" role="tabpanel" aria-labelledby="list-project3">
                             <img id="img" src={notetaker} className="item-img" alt="Photoalbulm screenshot" width="100%" />
                             <p><b>NoteTaker App</b></p>
                             <p>Deployed at: <a href="https://shielded-springs-24478.herokuapp.com/" target="_blank">Note Taker</a></p>
-                            <p>GitHub repository: <a href="https://shielded-springs-24478.herokuapp.com" target="_blank">https://shielded-springs-24478.herokuapp.com</a></p>
+                            <p>GitHub repository: <a href="https://github.com/ttrulock1/Homework11" target="_blank">https://shielded-springs-24478.herokuapp.com</a></p>
                         </div>
                     </div>
                    
