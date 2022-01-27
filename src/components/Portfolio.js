@@ -5,7 +5,7 @@ import codingquiz from '../images/CodingQuiz.png'
 import passwordscreenshot from '../images/password gen screenshot.jpg'
 import sampleimage from '../images/sample-image.jpg'
 import camping from '../images/camping.png'
-import weatherpic from '../images/weather dashboard screenshot.jpg'
+import weatherpic from '../images/weatherapp.png'
 
 
 const Portfolio = props => {
