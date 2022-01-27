@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.17d93f19.css",
-    "main.js": "/static/js/main.d4366a34.js",
-    "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
-    "index.html": "/index.html",
-    "main.17d93f19.css.map": "/static/css/main.17d93f19.css.map",
-    "main.d4366a34.js.map": "/static/js/main.d4366a34.js.map",
-    "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
+    "main.css": "/portfolio-site/static/css/main.17d93f19.css",
+    "main.js": "/portfolio-site/static/js/main.ef4da9f7.js",
+    "static/js/787.37faa4c4.chunk.js": "/portfolio-site/static/js/787.37faa4c4.chunk.js",
+    "static/media/camping.png": "/portfolio-site/static/media/camping.048fbb03b80ba2d2d7bd.png",
+    "static/media/profilepic.jpg": "/portfolio-site/static/media/profilepic.87a14024edc23a5315a2.jpg",
+    "static/media/NoteTaker.png": "/portfolio-site/static/media/NoteTaker.55ba8dc2b81139543798.png",
+    "static/media/Gallery.png": "/portfolio-site/static/media/Gallery.797b3d71a94bc07a2388.png",
+    "static/media/weatherapp.png": "/portfolio-site/static/media/weatherapp.83bbf51ca2d0a330ca66.png",
+    "static/media/CodingQuiz.png": "/portfolio-site/static/media/CodingQuiz.bc54e3d7a86a9d9bf962.png",
+    "static/media/password gen screenshot.jpg": "/portfolio-site/static/media/password gen screenshot.7bc9756d16c22c9406ed.jpg",
+    "static/media/sample-image.jpg": "/portfolio-site/static/media/sample-image.2e29b215a3ac048ec89e.jpg",
+    "index.html": "/portfolio-site/index.html",
+    "main.17d93f19.css.map": "/portfolio-site/static/css/main.17d93f19.css.map",
+    "main.ef4da9f7.js.map": "/portfolio-site/static/js/main.ef4da9f7.js.map",
+    "787.37faa4c4.chunk.js.map": "/portfolio-site/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17d93f19.css",
-    "static/js/main.d4366a34.js"
+    "static/js/main.ef4da9f7.js"
   ]
 }
