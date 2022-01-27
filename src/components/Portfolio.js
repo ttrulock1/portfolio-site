@@ -23,12 +23,12 @@ const Portfolio = props => {
             
                     <div class="list-group" id="list-tab" role="tablist">
                        <a class="list-group-item list-group-item-action active" id="list-readme-list" data-toggle="list" href="#list-readme" role="tab" aria-controls="readme">Password Generator</a>
-                       <a class="list-group-item list-group-item-action" id="list-portfolio-list" data-toggle="list" href="#list-portfolio" role="tab" aria-controls="portfolio">----Coding Quiz SIte----</a>
+                       <a class="list-group-item list-group-item-action" id="list-portfolio-list" data-toggle="list" href="#list-portfolio" role="tab" aria-controls="portfolio">Coding Quiz Site</a>
                        <a class="list-group-item list-group-item-action" id="list-Plan-list" data-toggle="list" href="#list-Plan" role="tab" aria-controls="Plan"> Daily Schedule Planner</a>
-                       <a class="list-group-item list-group-item-action" id="list-pw-list" data-toggle="list" href="#list-pw" role="tab" aria-controls="pw">----- Weather Dashboard-----</a>
-                       <a class="list-group-item list-group-item-action" id="list-btProject-list" data-toggle="list" href="#list-btProject" role="tab" aria-controls="btProject">Budget Tracker</a>
-                       <a class="list-group-item list-group-item-action" id="list-run-list" data-toggle="list" href="#list-run" role="tab" aria-controls="run">---- Run Buddy</a>
-                       <a class="list-group-item list-group-item-action" id="list-project3" data-toggle="list" href="#project-3" role="tab" aria-controls="project3">---- Project3:Photo Albulm</a>
+                       <a class="list-group-item list-group-item-action" id="list-pw-list" data-toggle="list" href="#list-pw" role="tab" aria-controls="pw">Weather Dashboard</a>
+                       <a class="list-group-item list-group-item-action" id="list-btProject-list" data-toggle="list" href="#list-btProject" role="tab" aria-controls="btProject">Camping in the Southeast</a>
+                       <a class="list-group-item list-group-item-action" id="list-run-list" data-toggle="list" href="#list-run" role="tab" aria-controls="run">Run Buddy</a>
+                       <a class="list-group-item list-group-item-action" id="list-project3" data-toggle="list" href="#project-3" role="tab" aria-controls="project3">Gallery</a>
                     </div>
                
                     <div class="tab-content" id="nav-tabContent">
