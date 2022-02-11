@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer and Data Scientist",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I am a frontend and backend developer.l I love making instruments, learning,  writing, and playing music in my free time.",
+    "roleDescription": "I am a frontend and backend developer. I love making instruments, learning, writing, and playing music in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
