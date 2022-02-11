@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer and Data Scientist",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like learning about frontend and backend development. I love learning and writng in my free time.",
+    "roleDescription": "I am a frontend and backend developer.l I love making instruments, learning,  writing, and playing music in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -35,46 +35,87 @@ let resumeData = {
       },
       {
         "UniversityName":"University of New Orleans",
-        "specialization":"MA in English Literature, MFA In Creative Writing",
+        "specialization":"MA in English Literature",
         "MonthOfPassing":"May",
         "YearOfPassing":"2014",
-        "Achievements":"Some Achievements"
+        "Achievements":"M.A."
+      },
+      {
+        "UniversityName":"University of New Orleans",
+        "specialization":"MFA In Creative Writing",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2014",
+        "Achievements":"MFA"
       },
       {
         "UniversityName":"Georgia State University",
         "specialization":"PhD in English Literature-Digital Humanties",
         "MonthOfPassing":"May",
-        "YearOfPassing":"2014",
-        "Achievements":"Some Achievements"
+        "YearOfPassing":"Finished in December of 2022",
+        "Achievements":"cum laude"
       }
     ],
     "work":[
       {
-        "CompanyName":"Vanderbilt Coding Bootcamp",
-        "specialization":"FSF",
-        "MonthOfLeaving":"June",
-        "YearOfLeaving":"2021",
-        "Achievements":"Some Achievements"
+        "CompanyName":"University of New Orleans",
+        "specialization":"Professor",
+        "MonthOfLeaving":"January",
+        "YearOfLeaving":"2022",
+        "Achievements":""
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"Xavier University",
+        "specialization":"Professor",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2021",
+        "Achievements":"Full Time Professor"
+      },
+      {
+        "CompanyName":"Georgia State University",
+        "specialization":"Professor",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
+        "YearOfLeaving":"2020",
+        "Achievements":""
+      },
+      {
+        "CompanyName":"Savannah Morning News",
+        "specialization":"Journalist",
+        "MonthOfLeaving":"Jan",
+        "YearOfLeaving":"2020",
+        "Achievements":"Covered sports and local events"
+      },
+      {
+        "CompanyName":"South Magazine",
+        "specialization":"Editor",
+        "MonthOfLeaving":"Jan",
+        "YearOfLeaving":"2016",
+        "Achievements":"Editor of the 10th aniversity issue"
+      },
+      {
+        "CompanyName":"College of Coastal Georgia",
+        "specialization":"Professor",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2016",
+        "Achievements":"Professor of the Year"
+      },
+
+
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
-        "skillname":"Computer Sciences including HTML5,CSS,Reactjs"
+        "skillname":"Coding, Georiga Tech Coding Bootcamp Certified: Specilizes HTML5,CSS,Reactjs; Frontend & Backend"
       },
       {
-        "skillname":"Freelance Writing, Journalism, Poetry, Teaching"
+        "skillname":"Writing, Worked For Savannah Morning News and South Magazine, Publish in Light, Scifhaiku, Elephant Journal, Black Warrior Review, et al.; Freelance Writing, Journalism, Poetry, Teaching, 2016-18"
       },
       {
-        "skillname":"Carpentry, Luthier,"
+        "skillname":"ESL Teaching, TEFl ESL 120 Certified: Taught at Ho Chi Minh University in Vietnam and Shane Schools in Taiwan, 2016"
+      },
+      {
+        "skillname":"Carpentry, Worked for San Miguel County as a Carpetner, 2020"
       }
+
     ],
     "portfolio":[
       {
